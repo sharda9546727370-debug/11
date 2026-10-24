@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Calculator body (beautiful material matrix green) -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M34,24 h40 c4,0 6,2 6,6 v48 c0,4 -2,6 -6,6 h-40 c-4,0 -6,-2 -6,-6 v-48 c0,-4 2,-6 6,-6 z" />
+    <!-- Screen mask -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M38,30 h32 v12 h-32 z" />
+    <!-- Screen display lines representing 25 decimals -->
+    <path
+        android:fillColor="#39FF14"
+        android:pathData="M42,34 h16 v2 h-16 z M42,38 h24 v2 h-24 z" />
+    <!-- Buttons -->
+    <!-- Row 1 -->
+    <path android:fillColor="#000000" android:pathData="M38,48 h6 v6 h-6 z M46,48 h6 v6 h-6 z M54,48 h6 v6 h-6 z M62,48 h6 v6 h-6 z" />
+    <!-- Row 2 -->
+    <path android:fillColor="#000000" android:pathData="M38,58 h6 v6 h-6 z M46,58 h6 v6 h-6 z M54,58 h6 v6 h-6 z M62,58 h6 v6 h-6 z" />
+    <!-- Row 3 -->
+    <path android:fillColor="#000000" android:pathData="M38,68 h6 v6 h-6 z M46,68 h6 v6 h-6 z M54,68 h14 v6 h-14 z" />
+</vector>

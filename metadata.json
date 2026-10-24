@@ -1,0 +1,6 @@
+{
+  "name": "AI Calculator",
+  "description": "An advanced calculator with 25 decimal precision, mathematical formula library, unit and currency converter, and AI-powered analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
